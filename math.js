@@ -1,10 +1,10 @@
 // Math =  an intrinsic object that provides basic mathematics functionality and constants
-
+ 
 let x = 3.14;
-let y = 5;
-let z = 9;
-let maximum;
-let minimum;
+  let y = 5;
+    let z = 9;
+let   maximum;
+let  minimum;
 
 // x = Math.round(x);
 // x = Math.floor(x);
@@ -14,7 +14,7 @@ let minimum;
 // x = Math.abs(x);
 // maximum = Math.max(x, y, z);
 // minimum = Math.min(x, y, z);
-x = Math.PI;
-// console.log(maximum)
+// x = Math.PI;
+// console.log(maximum)        
 console.log(x)
 // console.log(minimum)
