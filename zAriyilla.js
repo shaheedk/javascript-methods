@@ -14,7 +14,7 @@ const sample="12345"
  let a= res.filter(element =>  Number(element) %2 !== 0);
  let red= a.reduce((acc,vl) =>  acc + vl,0)
 
- console.warn('hey');
+ console.warn('hey'); 
  
 // console.log(a);
 console.log(red)
