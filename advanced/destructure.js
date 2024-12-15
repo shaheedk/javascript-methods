@@ -24,8 +24,8 @@ const[name,place,age]=destructArr//destucturing is give key name for array value
 console.log(name)
 
 const destructObj={
-    student:shaheed,
-    from:perunthallur,
+    student:'shaheed',
+    from:'perunthallur',
     dob:2006,
 }
 // in object allready key value pair .ee casil namukk neritt vilikkan vendiyan destructur cheyyunnath ithin order aayitt destructur cheyyanamennilla
